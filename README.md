@@ -16,10 +16,6 @@
   <a href="https://www.linkedin.com/in/makara-pheav/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  </a>
-  <a href="https://codepen.io/chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
-  </a>
 </div>
 
 <hr>
