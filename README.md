@@ -26,7 +26,12 @@ Building innovative solutions with **Python**, **TensorFlow**, **PyTorch**, **GC
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pytorch,pandas,scikit-learn,tensorflow" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,c++,sql,pytorch,pandas,scikit-learn,tensorflow" alt="Skill Icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 </p>
 
 ---
