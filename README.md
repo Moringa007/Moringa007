@@ -73,4 +73,6 @@ I enjoy building smart, data-driven solutions using tools like **Python**, **PyT
 
 ### ✨ Fun Fact
 
-> I believe data is not just
+> I believe data is not just numbers — it’s **insight**, **impact**, and **innovation** waiting to happen.
+
+---
