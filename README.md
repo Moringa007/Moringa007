@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=45&center=true&vCenter=true&width=600&height=60&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Makara" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=4493F8&center=true&vCenter=true&width=700&lines=Hi+There+👋;សូរស្ដី+(Khmer);สวัสดีครับ+(Thai);안녕하세요+(Korean);I'm+Makara+Pheav;AI%2FML+Engineer+%7C+CV+%7C+MLOps+Learner;Aspiring+Data+Scientist" alt="Typing animation" />
 </h1>
+
 
 <p align="center">
   🚀 AI/ML Engineer | 🧠 Computer Vision Enthusiast | 📊 Aspiring Data Scientist | ⚡ Tech Explorer
