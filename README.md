@@ -14,7 +14,7 @@ I'm an AI/ML engineer passionate about:
 
 - 🤖 Machine Learning & Deep Learning
 - 🧠 Computer Vision & Model Architecture Design
-- 🧪 2+ years of research experience in **ML model design and modification**
+- 🧪 Research experience in **ML model design and modification**
 - 📊 Data Visualization & Exploratory Data Analysis (EDA)
 - ⚙️ Diving deeper into **MLOps** for scalable and production-ready ML pipelines
 - 🎯 On the path to becoming a **Data Scientist**
