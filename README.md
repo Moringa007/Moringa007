@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 AI/ML Engineer | 📊 Aspiring Data Scientist | 🧠 Tech Enthusiast
+  🚀 AI/ML Engineer | 🧠 Computer Vision Enthusiast | 📊 Aspiring Data Scientist | ⚡ Tech Explorer
 </p>
 
 ---
@@ -13,13 +13,13 @@
 I'm an AI/ML engineer passionate about:
 
 - 🤖 Machine Learning & Deep Learning
-- 🧠 Computer Vision & Model Optimization
+- 🧠 Computer Vision & Model Architecture Design
+- 🧪 2+ years of research experience in **ML model design and modification**
 - 📊 Data Visualization & Exploratory Data Analysis (EDA)
-- ⚙️ Diving deeper into **MLOps** for scalable deployments
+- ⚙️ Diving deeper into **MLOps** for scalable and production-ready ML pipelines
 - 🎯 On the path to becoming a **Data Scientist**
 
-I enjoy building smart, data-driven solutions using tools like **Python**, **PyTorch**, **TensorFlow**, **Pandas**, **SQL**, and cloud platforms.
-
+I enjoy crafting efficient, innovative, and explainable AI models that solve real-world problems using tools like **Python**, **TensorFlow**, **PyTorch**, **Pandas**, **SQL**, and **GCP(VertexAI, BigQuery, AutoML)**.
 ---
 
 ### 🌱 What I'm Currently Learning
@@ -58,7 +58,7 @@ I enjoy building smart, data-driven solutions using tools like **Python**, **PyT
 
 ### 💬 Ask Me About
 
-- Machine Learning workflows (Supervised/Unsupervised)
+- Machine Learning workflows (Supervised/Unsupervised/Semi-supervised)
 - Model evaluation, tuning, and deployment
 - Data visualization with Seaborn, Plotly, Matplotlib
 - Efficient data processing with Pandas & SQL
