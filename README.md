@@ -5,7 +5,7 @@
 ### An AI/ML engineer passionate about machine learning, deep learning, and computer vision. Building innovative solutions with Python, TensorFlow, PyTorch, GCP, etc.
 
 - 🌱 I’m currently learning **[MLOps](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Python, PyTorch, Data Visualization anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 💬 Ask me about **Python, PyTorch, Data Visualization, anything**
 
 <br>
 
@@ -17,5 +17,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python, SQL, pytorch, pandas, scikit-learn, tensorflow" />
+</p>
 
 <hr>
