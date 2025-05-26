@@ -46,7 +46,7 @@ Here are some of the projects I've worked on, showcasing my skills in AI, Machin
       - **Export Data**: Download extracted data as JSON
     * **Technologies Used**: `Python`, `Tesseract OCR engine`, `OpenCV`.
     * **Key Features/Learnings**: Modern web browser with camera support (for webcam feature).
-    * **[Link to Repository](https://github.com/Moringa007/receipt_scanner.git)**
+    * **[Link to Repository](https://drive.google.com/file/d/1p4nXuWE7CSU-uOv5cdjGZdrsT7BFqkSi/view?usp=sharing)**
 
 ---
 ### 🌱 What I'm Currently Learning
