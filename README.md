@@ -31,7 +31,7 @@ Here are some of the projects I've worked on, showcasing my skills in AI, Machin
     * **Description**: My project during research at Kyungpook National University focused on developing a novel Class-Balanced Contrastive Loss to improve the UNET performance by pre-training using a semi-supervised contrastive learning technique.
     * **Technologies Used**: `Python`, `TensorFlow`, `OpenCV`, `numpy` (or relevant tools).
     * **Key Features/Learnings**: Model performance increased from around 80% to around 90%.
-    * **[Link to Repository](https://github.com/Moringa007/multiclasses-segmentation)**
+    * **[Link to Demo](https://drive.google.com/drive/folders/18DrduJ6utpUDpCzsYz9VWf-Iv_PlR-np?usp=sharing)**
 
 * **[Receipt Scanner]**:
     * **Description**: A web-based application that uses OCR (Optical Character Recognition) to scan and extract itemized data from receipts. Upload images or capture photos directly from your webcam to automatically parse receipt information, including items, prices, and totals.
