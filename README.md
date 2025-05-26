@@ -23,6 +23,23 @@ I'm an AI/ML engineer passionate about:
 I enjoy crafting efficient, innovative, and explainable AI models that solve real-world problems using tools like **Python**, **TensorFlow**, **PyTorch**, **Pandas**, **SQL**, and **GCP(VertexAI, BigQuery, AutoML)**.
 ---
 
+### 🚀 Projects
+
+Here are some of the projects I've worked on, showcasing my skills in AI, Machine Learning, and Data Science:
+
+* **[UNET Improvement by Supervised Contrastive Learning for Medical Image Segmentation]**:
+    * **Description**: My project during research at Kyungpook National University focused on developing a novel Class-Balanced Contrastive Loss to improve the UNET performance by pre-training using a semi-supervised contrastive learning technique.
+    * **Technologies Used**: `Python`, `TensorFlow`, `OpenCV`, `numpy` (or relevant tools).
+    * **Key Features/Learnings**: Model performance increased from around 80% to around 90%.
+    * **[Link to Repository]([https://github.com/your_username/project_name_1](https://github.com/Moringa007/multiclasses-segmentation))**
+
+* **[Receipt Scanner]**:
+    * **Description**: Side project to use the OCR for receipt scanning and compare the performance the multiple OCR models, including Easy OCR, pytesseract, and Deep Learning Based Custom OCR.
+    * **Technologies Used**: `Python`, `PyTorch`, `Pandas`, `Jupyter Notebook`.
+    * **Key Features/Learnings**: Highlight 2-3 important aspects or achievements.
+    * **[Link to Repository]()**
+
+---
 ### 🌱 What I'm Currently Learning
 
 - 📦 End-to-End ML Pipelines & Deployment
