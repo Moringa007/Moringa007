@@ -34,7 +34,9 @@ Here are some of the projects I've worked on, showcasing my skills in AI, Machin
     * **[Link to Repository](https://github.com/Moringa007/multiclasses-segmentation)**
 
 * **[Receipt Scanner]**:
-    * **Description**: Side project to use the OCR for receipt scanning and compare the performance the multiple OCR models, including Easy OCR, pytesseract, and Deep Learning Based Custom OCR.
+    * **Description**: A web-based application that uses OCR (Optical Character Recognition) to scan and extract itemized data from receipts. Upload images or capture photos directly from your webcam to automatically parse receipt information, including items, prices, and totals.
+    * **Features**:
+    * ***Image Upload***: Upload receipt images from your device
     * **Technologies Used**: `Python`, `PyTorch`, `Pandas`, `Jupyter Notebook`.
     * **Key Features/Learnings**: Highlight 2-3 important aspects or achievements.
     * **[Link to Repository]()**
