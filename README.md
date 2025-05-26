@@ -37,9 +37,16 @@ Here are some of the projects I've worked on, showcasing my skills in AI, Machin
     * **Description**: A web-based application that uses OCR (Optical Character Recognition) to scan and extract itemized data from receipts. Upload images or capture photos directly from your webcam to automatically parse receipt information, including items, prices, and totals.
     * **Features**:
       - **Image Upload**: Upload receipt images from your device
-    * **Technologies Used**: `Python`, `PyTorch`, `Pandas`, `Jupyter Notebook`.
-    * **Key Features/Learnings**: Highlight 2-3 important aspects or achievements.
-    * **[Link to Repository]()**
+      - **Webcam Capture**: Take photos of the receipt directly using the device's camera
+      - **OCR Processing**: Extract text using Tesseract OCR
+      - **Smart Parsing**: Automatically identify items, prices, quantities, and totals
+      - **Image Enhancement**: Automatic image preprocessing for better OCR accuracy
+      - **Data Storage**: Store receipts and items in a database
+      - **Web Interface**: Clean, responsive we interface
+      - **Export Data**: Download extracted data as JSON
+    * **Technologies Used**: `Python`, `Tesseract OCR engine`, `OpenCV`.
+    * **Key Features/Learnings**: Modern web browser with camera support (for webcam feature).
+    * **[Link to Repository](https://github.com/Moringa007/receipt_scanner.git)**
 
 ---
 ### 🌱 What I'm Currently Learning
