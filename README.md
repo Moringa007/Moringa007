@@ -92,12 +92,6 @@ Here are some of the projects I've worked on, showcasing my skills in AI, Machin
 
 ---
 
-### 📚 Featured Learning Resource
-
-> 🌐 [ByteByteGo: Free MLOps/System Design eBook](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
-
----
-
 ### ✨ Fun Fact
 
 > I believe data is not just numbers — it’s **insight**, **impact**, and **innovation** waiting to happen.
