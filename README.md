@@ -88,7 +88,6 @@ Here are some of the projects I've worked on, showcasing my skills in AI, Machin
 - Machine Learning workflows (Supervised/Unsupervised/Semi-supervised)
 - Model evaluation, tuning, and deployment
 - Data visualization with Seaborn, Plotly, Matplotlib
-- Efficient data processing with Pandas & SQL
 
 ---
 
