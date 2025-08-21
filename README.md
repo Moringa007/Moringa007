@@ -32,6 +32,16 @@ Here are some of the projects I've worked on, showcasing my skills in AI, Machin
     * **Technologies Used**: `Python`, `TensorFlow`, `OpenCV`, `numpy` (or relevant tools).
     * **Key Features/Learnings**: Model performance increased from around 80% to around 90%.
     * **[Link to Demo](https://drive.google.com/drive/folders/18DrduJ6utpUDpCzsYz9VWf-Iv_PlR-np?usp=sharing)**
+ 
+* **[Credit Card Fraud Detection with Machine Learning]**:
+    * **Description**: This project provides a complete, end-to-end machine learning solutions for credit card fraud detection dataset. It includes a robust data preprocessing pipeline, training, and evaluation of four distinct models, and a user-friendly GUI to make predictions on new data.
+    * **Technologies Used**: `Python`, `pandas`, `scikit-learn`, `LightGBM`, `XGBoost`, `CatBoost`, `customtkinter`, `numpy` (or relevant tools).
+    * **Key Features/Learnings**:
+        - Trained and compared four machine learning models to identify the best performer.
+        - ETL and preprocessing the financial data for analysis and refinement the feature selection for improvement.
+        - Developed a scalable data preprocessing pipeline to prevent data leakage.
+        - Create an interactive GUI for seamless user experience in a local environment.
+    * **[Link to Demo](https://github.com/Moringa007/credit-card-fraud-detection)**
 
 * **[Receipt Scanner]**:
     * **Description**: A web-based application that uses OCR (Optical Character Recognition) to scan and extract itemized data from receipts. Upload images or capture photos directly from your webcam to automatically parse receipt information, including items, prices, and totals.
