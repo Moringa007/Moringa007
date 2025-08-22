@@ -20,7 +20,7 @@ I'm an AI/ML engineer passionate about:
 - ⚙️ Diving deeper into **MLOps** for scalable and production-ready ML pipelines
 - 🎯 On the path to becoming a **MLOps Engineer**
 
-I enjoy crafting efficient, innovative, and explainable AI models that solve real-world problems using tools like **Python**, **TensorFlow**, **PyTorch**, **Pandas**, **SQL**, and **GCP(VertexAI, BigQuery, AutoML)**.
+### I enjoy crafting efficient, innovative, and explainable AI models that solve real-world problems.
 ---
 
 ### 🚀 Projects
