@@ -37,8 +37,8 @@ Here are some of the projects I've worked on, showcasing my skills in AI, Machin
     * **Description**: This project provides a complete, end-to-end machine learning solutions for credit card fraud detection dataset. It includes a robust data preprocessing pipeline, training, and evaluation of four distinct models, and a user-friendly GUI to make predictions on new data.
     * **Technologies Used**: `Python`, `pandas`, `scikit-learn`, `LightGBM`, `XGBoost`, `CatBoost`, `customtkinter`, `numpy` (or relevant tools).
     * **Key Features/Learnings**:
-        - Trained and compared four machine learning models to identify the best performer.
-        - ETL and preprocessing the financial data for analysis and refinement the feature selection for improvement.
+        - Trained and compared four machine learning models to identify the best machine learning model for this task.
+        - Preprocessing the financial data for analysis and refinement the feature selection for improvement.
         - Developed a scalable data preprocessing pipeline to prevent data leakage.
         - Create an interactive GUI for seamless user experience in a local environment.
     * **[Link to Demo](https://github.com/Moringa007/credit-card-fraud-detection)**
