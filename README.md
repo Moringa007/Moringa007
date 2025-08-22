@@ -41,7 +41,7 @@ Here are some of the projects I've worked on, showcasing my skills in AI, Machin
         - Preprocessing the financial data for analysis and refinement the feature selection for improvement.
         - Developed a scalable data preprocessing pipeline to prevent data leakage.
         - Create an interactive GUI for seamless user experience in a local environment.
-    * **[Link to Demo](https://github.com/Moringa007/credit-card-fraud-detection)**
+    * **[Link to repo](https://github.com/Moringa007/credit-card-fraud-detection)**
 
 * **[Receipt Scanner]**:
     * **Description**: A web-based application that uses OCR (Optical Character Recognition) to scan and extract itemized data from receipts. Upload images or capture photos directly from your webcam to automatically parse receipt information, including items, prices, and totals.
